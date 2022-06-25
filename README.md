@@ -1,17 +1,5 @@
  ## Hi 👋, I'm [Ouali Rida!](https://Ouali98.github.io)
- 
-<h3 align="left">Connect with me:</h3>
-<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
-	<a  href="mailto:ridaouali98@gmail.com">
-  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-	<a href="https://github.com/Ouali98">
-  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-	<a href="https://www.Twitter.com/in/rouali98/">
-  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-</div>
+
 <!--
 **Ouali98/Ouali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Connect with me:</h3>
+<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
+	<a  href="mailto:ridaouali98@gmail.com">
+  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+	<a href="https://github.com/Ouali98">
+  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+	<a href="https://www.Twitter.com/in/rouali98/">
+  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+</div>
+
 <p align = "center">
   <a href="https://github.com/Ouali98">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouali98&theme=dark">
@@ -40,6 +41,25 @@ Here are some ideas to get you started:
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150">
  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/>
+</p>
+
+
+
+<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
+	<a  href="mailto:ridaouali98@gmail.com">
+  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+	<a href="https://github.com/Ouali98">
+  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+	<a href="https://www.Twitter.com/in/rouali98/">
+  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rouali98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rouali98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
