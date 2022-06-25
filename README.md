@@ -20,10 +20,11 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ouali98&theme=dark">
   <img src = "https://github-readme-stats.vercel.app/api?username=Ouali98&show_icons=true&theme=dark&line_height=30">
 </p>
-<a href="https://github.com/ankitwarbhe">
+
+<a href="https://github.com/Ouali98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouali98&theme=dark">
 </a>
-<a href="https://github.com/ankitwarbhe">
+<a href="https://github.com/Ouali98">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ouali98&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </a>
 
