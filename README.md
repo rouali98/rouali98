@@ -23,14 +23,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
- <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150">
- <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/>
-</p>
-
-
 import queryString from 'query-string'
 import { Formik } from 'formik'
 import { useState } from 'react'
@@ -52,10 +44,10 @@ type ProfileCardProps = {
 }
 export default function ProfileCardGenerator() {
   const [cardImage, setCardImage] = useState(
-    '/api/profile?login=rouali&cursus=42&email=hide'
+    '/api/profile?login=ozaazaa&cursus=42&email=hide'
   )
   const initialValues: ProfileCardProps = {
-    login: 'rouali',
+    login: 'ozaazaa',
     cursus: '42',
     showEmail: false,
     darkTheme: false,
@@ -98,6 +90,6 @@ export default function ProfileCardGenerator() {
           >
             [![42 Profile Card](https://1337-readme.vercel.app{cardImage}
             [![42 Profile Card](https://1337-readme-xi.vercel.app{cardImage}
-            )](https://github.com/rouali/1337-readme)
+            )](https://github.com/mohouyizme/1337-readme)
           </div>
         </div>
