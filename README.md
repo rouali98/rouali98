@@ -1,4 +1,4 @@
-<h1 align="center"> ## Hi 👋, I'm [Ankit Warbhe!] </h1>
+## Hi 👋, I'm [Ankit Warbhe!]
 <p aligne="center"> 
 </p>
 
