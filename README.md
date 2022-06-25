@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br><br>
+<br>
 
 <p align = "center">
   <a href="https://github.com/Ouali98">
