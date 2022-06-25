@@ -1,7 +1,4 @@
  ## Hi 👋, I'm [Ouali Rida!](https://Ouali98.github.io)
- dcjk
-<p aligne="center"> 
-</p>
 <!--
 **Ouali98/Ouali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
