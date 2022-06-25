@@ -1,4 +1,4 @@
-<h1 align="center"> ## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) </h1>
+ ## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io)
 <p aligne="center"> 
 </p>
 
