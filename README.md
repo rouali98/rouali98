@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 	<a href="https://github.com/Ouali98">
   <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-	<a href="https://www.Twitter.com/in/rouqli98/">
+	<a href="https://www.Twitter.com/in/rouali98/">
   <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 </div>
