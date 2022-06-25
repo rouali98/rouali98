@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hi I'm Rida 👋 </h1>
+<p aligne="center"> 
+</p>
 
 <!--
 **Ouali98/Ouali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
