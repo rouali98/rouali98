@@ -1,5 +1,6 @@
- ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px">, I'm [Ouali Rida!](https://Ouali98.github.io)
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+
+    width="30px">, I'm [Ouali Rida!](https://Ouali98.github.io)</h1>,
 
 <!--
 **Ouali98/Ouali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
