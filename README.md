@@ -41,8 +41,3 @@
 
 <a href="https://github.com/Ouali98"><img alt="Ouali98's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Ouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-## INFO
-
-[![rouali's 42 stats](https://badge42.herokuapp.com/api/stats/rouali?darkmode=false&privacyEmail=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-[![rouali's 42 stats](https://badge42.vercel.app/api/v2/cl1ppbv93001109l22479z7th/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
