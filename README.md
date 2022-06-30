@@ -41,3 +41,5 @@
 
 <a href="https://github.com/Ouali98"><img alt="Ouali98's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Ouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
+    ##info
