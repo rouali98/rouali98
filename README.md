@@ -44,9 +44,13 @@
 ## info
 <p align = "center">
 	<a>
+		
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&login=rouali)](https://github.com/mohouyizme/1337-readme)
+		
 	</a>
 	<a>
+		
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&login=rouali)](https://github.com/mohouyizme/1337-readme)
+		
 	</a>
 </p>
