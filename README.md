@@ -42,7 +42,5 @@
 <a href="https://github.com/Ouali98"><img alt="Ouali98's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Ouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-	
-<p align = "center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" /></a>
-</p>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" /></a>
