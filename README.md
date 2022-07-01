@@ -43,6 +43,7 @@
     src="https://activity-graph.herokuapp.com/graph?username=Ouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ## info
 <p align = "center">
+	
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&login=rouali)](https://github.com/mohouyizme/1337-readme)
 
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&login=rouali)](https://github.com/mohouyizme/1337-readme)
