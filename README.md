@@ -46,5 +46,5 @@
 	<a href="https://github.com/Ouali98">
 		<img src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
 	</a>
-	<img src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=akhalid">
+	<img src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">
 </p>
