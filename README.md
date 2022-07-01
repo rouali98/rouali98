@@ -43,7 +43,7 @@
     src="https://activity-graph.herokuapp.com/graph?username=Ouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align = "center">
-	<a href="https://github.com/Ouali98">
+	<a align="center" href="https://github.com/Ouali98">
 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
 	</a>
 	<img align="center" src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">
