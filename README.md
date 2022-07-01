@@ -46,7 +46,4 @@
 	<a href="https://github.com/oakoudad/badge42">
 		<img src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
 	</a>
-	
-	[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&login=rouali)](https://github.com/mohouyizme/1337-readme)
-	
 </p>
