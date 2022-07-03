@@ -45,6 +45,6 @@
 <p align = "center">
 	<a align="center" href="https://github.com/Ouali98">
 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
-	</a>/*
-	<img align="center" src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">*/
+	</a>
+	<img align="center" src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">
 </p>
