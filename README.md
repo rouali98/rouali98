@@ -48,4 +48,4 @@
 	</a>
 	
 </p>
-<img align = "left" src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">
+<img align = "right" src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=rouali">
