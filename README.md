@@ -1,12 +1,11 @@
- <p align = "center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px" height="30px">, I'm OUALI Rida</h1>
+     <p align = "center">
 	<a href="https://github.com/rouali98">
 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
 	</a>
 	
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px">, I'm OUALI Rida</h1>
 
 <h3 align="left">Connect with me:</h3>
 <div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
