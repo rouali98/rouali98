@@ -1,4 +1,9 @@
- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+ <p align = "center">
+	<a href="https://github.com/rouali98">
+		<img align="center" src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
+	</a>
+	
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm OUALI Rida</h1>
@@ -42,10 +47,5 @@
 <a href="https://github.com/rouali98"><img alt="rouali's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=rouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align = "center">
-	<a href="https://github.com/rouali98">
-		<img align="center" src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
-	</a>
-	
-</p>
+
 
