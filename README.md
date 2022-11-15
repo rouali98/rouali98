@@ -21,6 +21,9 @@
 </div>
 
 <br>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <p align = "center">
   <a href="https://github.com/rouali98">
