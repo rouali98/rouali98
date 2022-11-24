@@ -50,4 +50,6 @@
     src="https://activity-graph.herokuapp.com/graph?username=rouali98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rouali98"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rouali98" /></a></p><br><br>
 
