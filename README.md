@@ -3,7 +3,7 @@
      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 	<div>
 		<a href="https://github.com/rouali98">
-		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" alt="rouali's 42 stats" />
+		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="200px" alt="rouali's 42 stats" />
 	</a>
 	</div>
 	<div>
