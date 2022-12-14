@@ -3,7 +3,7 @@
      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 	<div>
 		<a href="https://github.com/rouali98">
-		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="460px" alt="rouali's 42 stats" />
+		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="475px" alt="rouali's 42 stats" />
 	</a>
 		<a href="https://app.daily.dev/rouali98">
 		<img src="https://api.daily.dev/devcards/6edde52f741b4160b1073c3fe607f07f.png?r=1si" width="210px" alt="OUALI RIDA's Dev Card" />
