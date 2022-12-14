@@ -6,7 +6,7 @@
 		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="450px" alt="rouali's 42 stats" />
 	</a>
 		<a href="https://app.daily.dev/rouali98">
-		<img src="https://api.daily.dev/devcards/6edde52f741b4160b1073c3fe607f07f.png?r=1si" width="200px" alt="OUALI RIDA's Dev Card" />
+		<img src="https://api.daily.dev/devcards/6edde52f741b4160b1073c3fe607f07f.png?r=1si" width="250px" alt="OUALI RIDA's Dev Card" />
 	</a>
 	</div>
      </div>
