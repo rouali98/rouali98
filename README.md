@@ -5,8 +5,6 @@
 		<a href="https://github.com/rouali98">
 		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="200px" alt="rouali's 42 stats" />
 	</a>
-	</div>
-	<div>
 		<a href="https://app.daily.dev/rouali98">
 		<img src="https://api.daily.dev/devcards/6edde52f741b4160b1073c3fe607f07f.png?r=1si" width="200px" alt="OUALI RIDA's Dev Card" />
 	</a>
