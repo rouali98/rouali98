@@ -26,14 +26,14 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<p align = "center">
+<!-- <p align = "center">
   <a href="https://github.com/rouali98">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouali98&theme=dark">
   </a>
   <a href="https://github.com/rouali98">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rouali98&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
