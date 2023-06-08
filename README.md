@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm OUALI Rida</h1>
-    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+    ![](https://komarev.com/ghpvc/?username=rouali98&color=green)
      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 	<div>
 		<a href="https://github.com/rouali98">
