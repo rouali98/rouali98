@@ -1,13 +1,13 @@
 <img  src="https://komarev.com/ghpvc/?username=rouali98&color=green" alt="rouali's" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm OUALI Rida</h1>
-     <div align="center" style="display: flex; align-items : center; justify-content : center;">
+<!--      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 	<div>
 		<a href="https://github.com/rouali98">
 		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="475px" alt="rouali's 42 stats" />
 	</a>
 	</div>
-     </div>
+     </div> -->
 
 <h3 align="left">Connect with me:</h3>
 <div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
