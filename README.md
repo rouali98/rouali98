@@ -9,8 +9,6 @@
 	</div>
      </div> -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc68ae38-606d-4fe7-a8e1-caed2ef8d302" data-share-badge-host="https://www.credly.com"></div>
-
 <h3 align="left">Connect with me:</h3>
 <div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
 	<a  href="mailto:ridaouali98@gmail.com">
