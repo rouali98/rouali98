@@ -25,7 +25,8 @@
   <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 
- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1"
+<div>
+	 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1"
     x="0px" y="0px" viewBox="0 0 653.4 85.8" style="enable-background:new 0 0 653.4 85.8;" xml:space="preserve">
     <g id="Marks__x28_no_editing_x29_">
     </g>
@@ -45,6 +46,7 @@
     <g id="Guides__x28_hide_if_needed_x29_">
     </g>
 </svg>
+</div>
 </div>
 
 
