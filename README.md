@@ -1,26 +1,7 @@
 <img  src="https://komarev.com/ghpvc/?username=rouali98&color=green" alt="rouali's" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm OUALI Rida</h1>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1"
-    x="0px" y="0px" viewBox="0 0 653.4 85.8" style="enable-background:new 0 0 653.4 85.8;" xml:space="preserve">
-    <g id="Marks__x28_no_editing_x29_">
-    </g>
-    <g id="Logotype__x28_no_editing_x29_">
-    </g>
-    <g id="Campus_name">
-    </g>
-    <g id="Company_name">
-        <g>
-            <g>
-                <polygon points="67.5,0 45,0 0,45 0,63.3 45,63.3 45,85.8 67.5,85.8 67.5,45 22.5,45" />
-                <polygon points="77.2,22.5 99.7,0 77.2,0" />
-                <!-- ... (other polygons and paths) ... -->
-            </g>
-        </g>
-    </g>
-    <g id="Guides__x28_hide_if_needed_x29_">
-    </g>
-</svg>
+
 <!--      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 	<div>
 		<a href="https://github.com/rouali98">
@@ -43,6 +24,27 @@
 	<a href="https://www.Twitter.com/rouali98/">
   <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
+
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1"
+    x="0px" y="0px" viewBox="0 0 653.4 85.8" style="enable-background:new 0 0 653.4 85.8;" xml:space="preserve">
+    <g id="Marks__x28_no_editing_x29_">
+    </g>
+    <g id="Logotype__x28_no_editing_x29_">
+    </g>
+    <g id="Campus_name">
+    </g>
+    <g id="Company_name">
+        <g>
+            <g>
+                <polygon points="67.5,0 45,0 0,45 0,63.3 45,63.3 45,85.8 67.5,85.8 67.5,45 22.5,45" />
+                <polygon points="77.2,22.5 99.7,0 77.2,0" />
+                <!-- ... (other polygons and paths) ... -->
+            </g>
+        </g>
+    </g>
+    <g id="Guides__x28_hide_if_needed_x29_">
+    </g>
+</svg>
 </div>
 
 
